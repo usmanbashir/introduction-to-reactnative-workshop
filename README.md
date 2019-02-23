@@ -8,8 +8,10 @@ aren't mobile web apps because React Native uses the same fundamental UI buildin
 as regular iOS and Android apps. Instead of using Swift, Kotlin or Java, you are putting 
 those building blocks together using JavaScript and React.
 
-In this workshop, we will learn how to build a component-based mobile-app using React 
+In this workshop, we will learn how to build a component-based todo mobile-app using React 
 Native.
+
+![](App.PNG)
 
 
 ## Requirements
@@ -22,7 +24,7 @@ for the workshop.
    - [Installing Node.js via package manager](https://nodejs.org/en/download/package-manager/)
    - [Installing Yarn](https://yarnpkg.com/en/docs/install)
 
-1. Node Dependencies
+2. Node Dependencies
 
    Install the **expo-cli** dependence.
 
@@ -30,7 +32,7 @@ for the workshop.
    npm install expo-cli --global
    ```
 
-1. Code Editor, of your choice
+3. Code Editor, of your choice
 
 For anyone, who needs a refresher on JavaScript. I recommend you read the excellent 
 [Re-introduction guide to JavaScript]( 
